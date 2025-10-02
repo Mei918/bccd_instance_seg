@@ -1,0 +1,16 @@
+# large artifacts / caches
+checkpoints/
+cache_norm/
+viz/
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
+*.npz
+# misc
+.ipynb_checkpoints/
+.kaggle/
+.kagglehub/
+__pycache__/
